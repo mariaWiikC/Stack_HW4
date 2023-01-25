@@ -10,7 +10,6 @@ public class Main
 
     public static void main(String[] args)
     {
-	    int n = 13;
         int capacity = 3;
         IntStack test = new IntStack(capacity);
 
